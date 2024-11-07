@@ -125,7 +125,7 @@ const Home = (props) => {
                         <h4 className='text-center'>Your Trusted Event Management Partner </h4>
                     </span>
                     <div className="home-btn-group">
-                        <button className="buttonFilled" onClick={() => navigate('/global-trader/')} >Learn More</button>
+                        <button className="buttonFilled" onClick={() => navigate('/Global_Trader/')} >Learn More</button>
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@ const Home = (props) => {
                     </p>
                 </span>
                 <div className='home-btn-group'>
-                    <button className="buttonFilled" onClick={() => navigate('/global-trader/')}>Discover More</button>
+                    <button className="buttonFilled" onClick={() => navigate('/Global_Trader/')}>Discover More</button>
                 </div>
             </div>
             <div className="m-3">
