@@ -21,7 +21,7 @@ import { FaWhatsapp } from 'react-icons/fa';
 function App() {
     let router = createBrowserRouter([
         {
-            path: '/Gobal_Trader',
+            path: '/Global_Trader',
             element: <RootLayout />,
             errorElement: <ErrorRoute />,
             children: [
