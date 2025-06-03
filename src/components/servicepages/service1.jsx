@@ -1,13 +1,6 @@
 import React, { useState } from 'react';
-import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-import t7 from '../../assets/Past-Events/pe19.jpeg';
-import t8 from '../../assets/Past-Events/pe20.jpeg';
-import t9 from '../../assets/Past-Events/pe21.jpeg';
-import t10 from '../../assets/Past-Events/pe22.jpeg';
-import t11 from '../../assets/Past-Events/pe23.jpeg';
-import t12 from '../../assets/Past-Events/pe24.jpeg';
 import t1 from '../../assets/Service-1/1.jpeg';
 import t2 from '../../assets/Service-1/2.jpeg';
 import t3 from '../../assets/Service-1/3.jpeg';

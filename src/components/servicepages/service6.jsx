@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import t1 from '../../assets/Service-6/1.webp';
@@ -8,12 +7,6 @@ import t3 from '../../assets/Service-1/3.jpeg';
 import t4 from '../../assets/Service-1/4.webp';
 import t5 from '../../assets/Service-1/5.jpeg';
 import t6 from '../../assets/Service-1/6.jpeg';
-import t7 from '../../assets/Past-Events/pe1.jpeg';
-import t8 from '../../assets/Past-Events/pe2.jpeg';
-import t9 from '../../assets/Past-Events/pe3.jpeg';
-import t10 from '../../assets/Past-Events/pe4.jpeg';
-import t11 from '../../assets/Past-Events/pe5.jpeg';
-import t12 from '../../assets/Past-Events/pe6.jpeg';
 
 import './service1.css'
 import { useNavigate } from 'react-router-dom';
