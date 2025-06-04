@@ -1,6 +1,21 @@
 import React, { useState, useRef } from 'react';
+import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
+import t1 from '../../assets/Services/promotion-events.png'
+import t2 from '../../assets/Services/shop-opening-branding.png';
+import t3 from '../../assets/Services/cantervan-indoor-outdoor.png';
+import t4 from '../../assets/Services/manpower.png';
+import t5 from '../../assets/Services/installation-activation.png';
+import t7 from '../../assets/Past-Events/pe31.jpeg';
+import t8 from '../../assets/Past-Events/pe32.jpeg';
+import t9 from '../../assets/Past-Events//pe33.jpeg';
+import t10 from '../../assets/Past-Events/pe34.jpeg';
+import t11 from '../../assets/Past-Events/pe35.jpeg';
+import t12 from '../../assets/Past-Events/pe36.jpeg';
+import t13 from '../../assets/Past-Events/pe37.jpeg';
+import t14 from '../../assets/Past-Events/pe38.jpeg';
+import t15 from '../../assets/Past-Events/pe39.jpeg';
 import FeatureCard from './FeatureCard'
 import './AboutUs.css'
 import { useNavigate } from 'react-router-dom';
